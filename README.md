@@ -1,6 +1,6 @@
 # DataMiningProject
 
-Link to Website: https://sites.google.com/colorado.edu/data-mining-group10/models-implemented
+Link to Website: https://sites.google.com/colorado.edu/data-mining-group10/home
 
 Nowadays, the world is changing at a fast pace due to technological advancements, which impact current industry transitions and the skills necessary for employment. Adapting to these changes and keeping up with the times is essential in today’s world. The dynamics of employment trends, job market demands, and workforce distribution are crucial for understanding the evolving labor landscape. The scope of the study will only be looking at job postings for data science and analytics areas. We want to explore the key factors influencing employment opportunities, focusing on demographic characteristics, skill requirements, regional job market variations, and wage structures. Specifically, we investigate the potential relationships between race, ethnicity, and gender with employment outcomes, as well as the key skills and qualifications that employers prioritize in data-driven roles. 
 
